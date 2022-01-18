@@ -26,7 +26,40 @@ h1{
     font-size: 200%;
 }
 #hazari{
+    font-size: 27px;
     border-left: 7px solid;
     border-color:orangered;
     padding-left: 5px;
+}
+span{
+    color: orange;
+}
+.one-hundred{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 50px;
+}
+.golam-1{
+    margin-right: 3px;
+    margin-left: 145px;
+    width: 20%;
+    padding-right: 3%;
+    padding-left: 2%;
+    border-radius: 22px;
+    background-color: skyblue;
+}
+.golam-2{ 
+    margin-right: 3px;
+    width: 20%;
+    padding-right: 3%;
+    padding-left: 2%;
+    border-radius: 22px;
+    background-color: burlywood
+}
+.golam-3{
+    width: 20%;
+    padding-right: 3%;
+    padding-left: 2%;
+    border-radius: 22px;
+    background-color:wheat
 }
