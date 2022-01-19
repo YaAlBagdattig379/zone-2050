@@ -40,6 +40,7 @@ span{
     font-size: 50px;
 }
 .golam-1{
+    margin-bottom: 50px;
     margin-right: 3px;
     margin-left: 145px;
     width: 20%;
@@ -48,18 +49,56 @@ span{
     border-radius: 22px;
     background-color: skyblue;
 }
-.golam-2{ 
+.golam-2{
+    margin-bottom: 50px; 
     margin-right: 3px;
     width: 20%;
     padding-right: 3%;
     padding-left: 2%;
     border-radius: 22px;
-    background-color: burlywood
+    background-color: burlywood;
 }
 .golam-3{
+    margin-bottom: 50px;
     width: 20%;
     padding-right: 3%;
     padding-left: 2%;
     border-radius: 22px;
-    background-color:wheat
+    background-color:wheat;
+}
+.abcd-1{
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width:50%;
+}
+.abcd-1 img{
+    width:80%;
+}
+.food-3{ 
+    background-position: left;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-image: url(images/shapes/shape-1.png);
+}
+.food-1{
+    margin-left: 180px;
+}
+.food-2{
+    margin-right: 180px;
+    margin-top: 20px;
+}
+.food-2 h2{
+    font-size: 40px;
+}
+#rajababu{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 18px;
+    padding-left: 18px;
+    margin-top: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+    background-color:rgb(187, 16, 16);
+    color: white;
+    text-decoration: none;
 }
